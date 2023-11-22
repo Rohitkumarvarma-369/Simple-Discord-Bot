@@ -12,4 +12,4 @@ Member unlocking the Dev role:
 Verifying the role being added to the member's bio:
 ![role-added](https://github.com/Rohitkumarvarma-369/Simple-Discord-Bot/assets/79484529/22bedbed-37df-4410-acd9-212e836f3443)
 
-To test the command the user can try !kickme to leave the server, the same can be extended to other commands as well
+To test the command the user can try !kickme to leave the server, the same can be extended to other commands as well!
